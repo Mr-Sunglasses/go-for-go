@@ -14,7 +14,7 @@ func main()  {
 	fmt.Println(m)
 	fmt.Println(&m)
 	fmt.Println(&name)
-	fmt.Println(*m)ˀ
+	fmt.Println(*m)
 
 	// UpdateValue(&name)
 
